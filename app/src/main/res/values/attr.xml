@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="ECG" >
+
+        <!--小格子的宽度 大格子的宽度等于5个小格子的宽度-->
+        <attr name="small_grid_width" format="dimension"/>
+
+
+    </declare-styleable>
+
+
+</resources>
